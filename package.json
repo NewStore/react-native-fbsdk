@@ -19,5 +19,13 @@
     "facebook",
     "core"
   ],
-  "license": "Facebook Platform License"
+  "license": "Facebook Platform License",
+  "scripts": {
+    "postinstall": "node scripts/getFacebookSDK.js"
+  },
+  "dependencies": {
+    "download": "^4.4.3",
+    "download-status": "^2.2.1",
+    "path-exists": "^3.0.0"
+  }
 }
