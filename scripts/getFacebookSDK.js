@@ -3,7 +3,7 @@ const downloadStatus = require('download-status')
 const pathExists = require('path-exists')
 
 const iOS = {
-  dl: 'https://origincache.facebook.com/developers/resources/?id=facebook-ios-sdk-current.zip',
+  dl: 'https://origincache.facebook.com/developers/resources/?id=FacebookSDKs-iOS-4.16.0.zip',
   dist: './iOS/Frameworks/FacebookSDK',
 }
 
