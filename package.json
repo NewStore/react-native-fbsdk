@@ -6,6 +6,10 @@
   "author": {
     "name": "Zhuowen Deng"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NewStore/react-native-fbsdk.git"
+  },
   "contributors": {
     "name": "Chris Hackmann"
   },
