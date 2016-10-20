@@ -1,14 +1,10 @@
 {
-  "name": "react-native-fbsdk",
-  "version": "0.2.1-newstore-adjustments",
+  "name": "@newstore/react-native-fbsdk",
+  "version": "0.2.1",
   "description": "Facebook SDK support for React Native apps.",
   "main": "./js/index.js",
   "author": {
     "name": "Zhuowen Deng"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/NewStore/react-native-fbsdk.git"
   },
   "contributors": {
     "name": "Chris Hackmann"
