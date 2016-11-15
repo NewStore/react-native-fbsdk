@@ -1,6 +1,6 @@
 {
-  "name": "@newstore/react-native-fbsdk",
-  "version": "0.2.2",
+  "name": "react-native-fbsdk",
+  "version": "0.2.1",
   "description": "Facebook SDK support for React Native apps.",
   "main": "./js/index.js",
   "author": {
